@@ -1,0 +1,4 @@
+Credits:
+"FILTER_SANITIZE_SPECIAL_CHARS"; https://www.php.net/manual/en/function.filter-input.php
+"Number_Format()"; https://www.geeksforgeeks.org/php-number_format-function/
+CSS Used: Created by ChatGPT
